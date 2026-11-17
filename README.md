@@ -76,5 +76,3 @@ Final assembly and fittings in progress. The machine will be put into use in our
 
 ## Future improvements
 - [RFID payment, refund on a failed dispense, or low-stock alerts]
-
-## Note
