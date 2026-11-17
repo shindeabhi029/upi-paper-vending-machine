@@ -30,7 +30,7 @@ A machine that works like a small vending machine. The user enters the number of
 - Embedded control logic for user input, payment verification, sensors, motors, dispensing, and error handling
 - Payment: dynamic UPI QR generation for the entered amount ([how payment is confirmed])
 - IoT dashboard for transaction logging and inventory monitoring ([platform used])
-- Price per sheet: [1 rupees]
+- Price per sheet: [₹1 per sheet.]
 
 ## Design targets
 These are the goals set for the project, not measured results.
