@@ -37,10 +37,7 @@ These are the goals set for the project, not measured results.
 - More than 500 transactions per day
 - Less than 3 seconds from payment to dispense
 - High sheet-counting accuracy
-- Sensor-based anti-jam detection
-
-## Test results
-[Add your real numbers here, such as number of tests, accuracy, and average dispense time. Delete this section if you don't have them yet.]
+- Sensor-based anti-jam detectio
 
 ## Images
 Add these inside an `images` folder.
@@ -54,7 +51,6 @@ Add these inside an `images` folder.
 ## My contribution
 - Dynamic UPI QR generation for the amount entered
 - Payment confirmation and the signal to the motors
-- [add anything else you did]
 
 ## Methodology
 Problem identification, requirements, design, component selection, prototype, programming, testing, performance evaluation, optimization, and final prototype.
@@ -72,7 +68,10 @@ Project guide: Prof. Onkar Mestry
 Final assembly and fittings in progress. The machine will be put into use in our department next week.
 
 ## Limitations
-- [ paper jams with some paper types or dependence on internet]
+- Designed for A4 paper (70-100 GSM)
+- Long-term reliability is not tested yet, as the machine goes into use next week
 
 ## Future improvements
-- [RFID payment, refund on a failed dispense, or low-stock alerts]
+- RFID payment
+- Refund on a failed dispense
+- Low-stock alerts on the IoT dashboard
