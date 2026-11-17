@@ -37,16 +37,7 @@ These are the goals set for the project, not measured results.
 - More than 500 transactions per day
 - Less than 3 seconds from payment to dispense
 - High sheet-counting accuracy
-- Sensor-based anti-jam detectio
-
-## Images
-Add these inside an `images` folder.
-- Circuit diagram: `images/circuit-diagram.png`
-- Concept drawings: `images/concept-drawing.png`
-- Outer body design: `images/outer-body.png`
-- Photo of the machine: `images/machine.jpg`
-
-![Circuit diagram](images/circuit-diagram.png)
+- Sensor-based anti-jam detects
 
 ## My contribution
 - Dynamic UPI QR generation for the amount entered
